@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brahmware/static/css/main.f2be8778.css",
+    "main.js": "/Brahmware/static/js/main.cbe7b435.js",
+    "index.html": "/Brahmware/index.html",
+    "main.f2be8778.css.map": "/Brahmware/static/css/main.f2be8778.css.map",
+    "main.cbe7b435.js.map": "/Brahmware/static/js/main.cbe7b435.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2be8778.css",
+    "static/js/main.cbe7b435.js"
+  ]
+}
